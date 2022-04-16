@@ -1,5 +1,6 @@
 ![Purdue](https://user-images.githubusercontent.com/77589878/163655388-a8dcd3ae-0fbf-47ea-a477-9e0c2733e342.jpeg)
-# The Centerpiece for the Opioid Epidemic - Misleading Statistics in Purdue Pharma
+# The Centerpiece for the Opioid Epidemic 
+## Unethical Statistical Practices by Purdue Pharma 
 
 Billion dollar drug maker Purdue Pharma launched a cure for pain but would later become the centerpiece for the opioid epidemic. This is how misleading statistics contributed
 
